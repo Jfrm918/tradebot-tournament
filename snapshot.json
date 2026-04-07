@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-07T05:21:05.866636Z",
+  "last_updated": "2026-04-07T05:22:32.914673Z",
   "tournament_day": 4,
   "total_bots": 7,
   "bots": [
@@ -12,7 +12,7 @@
       "win_rate": 0.0,
       "max_drawdown": 0.0,
       "current_drawdown": 0.0,
-      "last_heartbeat": "2026-04-07T05:20:58.224013Z",
+      "last_heartbeat": "2026-04-07T05:22:25.133467Z",
       "rank": 1
     },
     {
@@ -24,7 +24,7 @@
       "win_rate": 0.0,
       "max_drawdown": 0.0,
       "current_drawdown": 0.0,
-      "last_heartbeat": "2026-04-07T05:20:59.279421Z",
+      "last_heartbeat": "2026-04-07T05:22:26.266781Z",
       "rank": 2
     },
     {
@@ -36,7 +36,7 @@
       "win_rate": 0.0,
       "max_drawdown": 0.0,
       "current_drawdown": 0.0,
-      "last_heartbeat": "2026-04-07T05:21:02.495819Z",
+      "last_heartbeat": "2026-04-07T05:22:29.543885Z",
       "rank": 3
     },
     {
@@ -48,7 +48,7 @@
       "win_rate": 0.0,
       "max_drawdown": 0.0,
       "current_drawdown": 0.0,
-      "last_heartbeat": "2026-04-07T05:21:03.652635Z",
+      "last_heartbeat": "2026-04-07T05:22:30.702010Z",
       "rank": 4
     },
     {
@@ -60,7 +60,7 @@
       "win_rate": 0.0,
       "max_drawdown": 0.0,
       "current_drawdown": 0.0,
-      "last_heartbeat": "2026-04-07T05:17:10.007103Z",
+      "last_heartbeat": "2026-04-07T05:21:04.763847Z",
       "rank": 5
     },
     {
@@ -72,7 +72,7 @@
       "win_rate": 0.0,
       "max_drawdown": 0.0,
       "current_drawdown": 0.0,
-      "last_heartbeat": "2026-04-07T05:21:00.283443Z",
+      "last_heartbeat": "2026-04-07T05:22:27.295999Z",
       "rank": 6
     },
     {
@@ -84,7 +84,7 @@
       "win_rate": 0.0,
       "max_drawdown": 0.0,
       "current_drawdown": 0.0,
-      "last_heartbeat": "2026-04-07T05:21:01.461221Z",
+      "last_heartbeat": "2026-04-07T05:22:28.461282Z",
       "rank": 7
     }
   ],
@@ -98,7 +98,7 @@
       "win_rate": 0.0,
       "max_drawdown": 0.0,
       "current_drawdown": 0.0,
-      "last_heartbeat": "2026-04-07T05:20:58.224013Z",
+      "last_heartbeat": "2026-04-07T05:22:25.133467Z",
       "rank": 1
     },
     {
@@ -110,7 +110,7 @@
       "win_rate": 0.0,
       "max_drawdown": 0.0,
       "current_drawdown": 0.0,
-      "last_heartbeat": "2026-04-07T05:20:59.279421Z",
+      "last_heartbeat": "2026-04-07T05:22:26.266781Z",
       "rank": 2
     },
     {
@@ -122,7 +122,7 @@
       "win_rate": 0.0,
       "max_drawdown": 0.0,
       "current_drawdown": 0.0,
-      "last_heartbeat": "2026-04-07T05:21:02.495819Z",
+      "last_heartbeat": "2026-04-07T05:22:29.543885Z",
       "rank": 3
     },
     {
@@ -134,7 +134,7 @@
       "win_rate": 0.0,
       "max_drawdown": 0.0,
       "current_drawdown": 0.0,
-      "last_heartbeat": "2026-04-07T05:21:03.652635Z",
+      "last_heartbeat": "2026-04-07T05:22:30.702010Z",
       "rank": 4
     },
     {
@@ -146,7 +146,7 @@
       "win_rate": 0.0,
       "max_drawdown": 0.0,
       "current_drawdown": 0.0,
-      "last_heartbeat": "2026-04-07T05:17:10.007103Z",
+      "last_heartbeat": "2026-04-07T05:21:04.763847Z",
       "rank": 5
     },
     {
@@ -158,7 +158,7 @@
       "win_rate": 0.0,
       "max_drawdown": 0.0,
       "current_drawdown": 0.0,
-      "last_heartbeat": "2026-04-07T05:21:00.283443Z",
+      "last_heartbeat": "2026-04-07T05:22:27.295999Z",
       "rank": 6
     },
     {
@@ -170,7 +170,7 @@
       "win_rate": 0.0,
       "max_drawdown": 0.0,
       "current_drawdown": 0.0,
-      "last_heartbeat": "2026-04-07T05:21:01.461221Z",
+      "last_heartbeat": "2026-04-07T05:22:28.461282Z",
       "rank": 7
     }
   ],
