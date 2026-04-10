@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-10T15:53:08.157962Z",
+  "last_updated": "2026-04-10T15:53:12.633892Z",
   "tournament_day": 7,
   "total_bots": 7,
   "bots": [
@@ -36,7 +36,7 @@
       "win_rate": 0.0,
       "max_drawdown": 0.0,
       "current_drawdown": 0.0,
-      "last_heartbeat": "2026-04-10T15:53:04.819954Z",
+      "last_heartbeat": "2026-04-10T15:53:09.460053Z",
       "rank": 3
     },
     {
@@ -48,7 +48,7 @@
       "win_rate": 0.0,
       "max_drawdown": 0.0,
       "current_drawdown": 0.0,
-      "last_heartbeat": "2026-04-10T15:53:05.984087Z",
+      "last_heartbeat": "2026-04-10T15:53:10.551857Z",
       "rank": 4
     },
     {
@@ -60,7 +60,7 @@
       "win_rate": 0.0,
       "max_drawdown": 0.0,
       "current_drawdown": 0.0,
-      "last_heartbeat": "2026-04-10T15:47:45.274834Z",
+      "last_heartbeat": "2026-04-10T15:53:07.064871Z",
       "rank": 5
     },
     {
@@ -84,7 +84,7 @@
       "win_rate": 0.0,
       "max_drawdown": 0.0,
       "current_drawdown": 0.0,
-      "last_heartbeat": "2026-04-10T15:53:03.776314Z",
+      "last_heartbeat": "2026-04-10T15:53:08.293343Z",
       "rank": 7
     }
   ],
@@ -122,7 +122,7 @@
       "win_rate": 0.0,
       "max_drawdown": 0.0,
       "current_drawdown": 0.0,
-      "last_heartbeat": "2026-04-10T15:53:04.819954Z",
+      "last_heartbeat": "2026-04-10T15:53:09.460053Z",
       "rank": 3
     },
     {
@@ -134,7 +134,7 @@
       "win_rate": 0.0,
       "max_drawdown": 0.0,
       "current_drawdown": 0.0,
-      "last_heartbeat": "2026-04-10T15:53:05.984087Z",
+      "last_heartbeat": "2026-04-10T15:53:10.551857Z",
       "rank": 4
     },
     {
@@ -146,7 +146,7 @@
       "win_rate": 0.0,
       "max_drawdown": 0.0,
       "current_drawdown": 0.0,
-      "last_heartbeat": "2026-04-10T15:47:45.274834Z",
+      "last_heartbeat": "2026-04-10T15:53:07.064871Z",
       "rank": 5
     },
     {
@@ -170,7 +170,7 @@
       "win_rate": 0.0,
       "max_drawdown": 0.0,
       "current_drawdown": 0.0,
-      "last_heartbeat": "2026-04-10T15:53:03.776314Z",
+      "last_heartbeat": "2026-04-10T15:53:08.293343Z",
       "rank": 7
     }
   ],
